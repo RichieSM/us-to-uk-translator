@@ -13,5 +13,6 @@ For example:
 | Your Turn Signal | To Indicate |
 | Color | Colour |
 | Broiler | Grill |
+| Canola Oil | Rapeseed Oil |
 
 This may be particularly useful on websites such as Reddit, where commenters are largely American.
