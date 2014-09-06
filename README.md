@@ -10,7 +10,6 @@ For example:
 | Scallions | Spring Onions |
 | Hood | Bonnet |
 | Sidewalk | Pavement |
-| Your Turn Signal | To Indicate |
 | Color | Colour |
 | Broiler | Grill |
 | Canola Oil | Rapeseed Oil |
