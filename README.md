@@ -15,4 +15,4 @@ For example:
 | Broiler | Grill |
 | Canola Oil | Rapeseed Oil |
 
-This may be particularly useful on websites such as Reddit, where commenters are largely American.
+This may be particularly useful on websites such as Reddit, where commenters are largely American. This is especially important in subreddits such as /r/Cooking where many of the terms above might be confusing.
