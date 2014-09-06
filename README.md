@@ -10,7 +10,8 @@ For example:
 | Scallions | Spring Onions |
 | Hood | Bonnet |
 | Sidewalk | Pavement |
-| Turn Signal | Indicate |
+| Your Turn Signal | To Indicate |
 | Color | Colour |
+| Broiler | Grill |
 
 This may be particularly useful on websites such as Reddit, where commenters are largely American.
